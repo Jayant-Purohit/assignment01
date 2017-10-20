@@ -1,4 +1,4 @@
 # assignment01
 
-install npm
-install bower
+npm install__
+bower install__
